@@ -1,0 +1,16 @@
+{
+  "mac": "8C:94:DF:47:FF:F4",
+  "description": "ching chong cha",
+  "indoor_outdoor": "1",
+  "wifi": {
+    "ssid": "B535_2B0D"
+  },
+  "gps": {
+    "lat": -26.180012,
+    "lon": 28.052446
+  },
+  "provisioning": {
+    "last_provisioned": "2026-08-07T16:53:07.930Z",
+    "method": "ble"
+  }
+}
