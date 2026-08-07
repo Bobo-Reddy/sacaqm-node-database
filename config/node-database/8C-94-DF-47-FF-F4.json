@@ -1,16 +1,17 @@
 {
   "mac": "8C:94:DF:47:FF:F4",
-  "description": "ching chong cha",
+  "description": "The first of many",
   "indoor_outdoor": "1",
   "wifi": {
     "ssid": "B535_2B0D"
   },
   "gps": {
-    "lat": -26.180012,
-    "lon": 28.052446
+    "lat": -26.180032,
+    "lon": 28.052501
   },
   "provisioning": {
-    "last_provisioned": "2026-08-07T16:44:23.469Z",
-    "method": "ble"
+    "last_provisioned": "2026-08-07T16:44:37.187Z",
+    "method": "ble",
+    "running_fw": "v1.0.0"
   }
 }
