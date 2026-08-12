@@ -1,0 +1,17 @@
+{
+  "mac": "8C:94:DF:47:FF:F4",
+  "description": "Physics",
+  "indoor_outdoor": "1",
+  "wifi": {
+    "ssid": "Hisense F35 Pro",
+    "username": "Tshepang"
+  },
+  "gps": {
+    "lat": -26.191727,
+    "lon": 28.031369
+  },
+  "provisioning": {
+    "last_provisioned": "2026-08-12T13:35:47.247Z",
+    "method": "ble"
+  }
+}
