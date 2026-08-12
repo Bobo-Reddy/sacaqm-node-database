@@ -1,0 +1,17 @@
+{
+  "mac": "8C:94:DF:47:FF:F4",
+  "description": "Helloooo",
+  "indoor_outdoor": "1",
+  "wifi": {
+    "ssid": "eduroam",
+    "username": "2454323"
+  },
+  "gps": {
+    "lat": -26.191571,
+    "lon": 28.031174
+  },
+  "provisioning": {
+    "last_provisioned": "2026-08-12T10:40:40.804Z",
+    "method": "ble"
+  }
+}
