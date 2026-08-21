@@ -1,0 +1,17 @@
+{
+  "mac": "80:F3:DA:54:49:A8",
+  "description": "Houghton Tester",
+  "indoor_outdoor": "0",
+  "wifi": {
+    "ssid": "B535_2B0D"
+  },
+  "gps": {
+    "lat": -26.180255,
+    "lon": 28.052297
+  },
+  "provisioning": {
+    "last_provisioned": "2026-08-21T08:51:24.778Z",
+    "method": "portal",
+    "running_fw": "v1.0.0"
+  }
+}
