@@ -1,0 +1,14 @@
+{
+  "mac": "80:F3:DA:54:49:A8",
+  "description": "Bobos lab system",
+  "indoor_outdoor": "1",
+  "wifi": {
+    "ssid": "eduroam",
+    "username": "a0077197"
+  },
+  "provisioning": {
+    "last_provisioned": "2026-08-21T10:07:11.981Z",
+    "method": "portal",
+    "running_fw": "v1.0.0"
+  }
+}
