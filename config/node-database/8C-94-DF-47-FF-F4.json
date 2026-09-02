@@ -1,0 +1,18 @@
+{
+  "mac": "8C:94:DF:47:FF:F4",
+  "description": "The prototype",
+  "indoor_outdoor": "1",
+  "wifi": {
+    "ssid": "eduroam",
+    "username": "2454323"
+  },
+  "gps": {
+    "lat": -26.191582,
+    "lon": 28.031209
+  },
+  "provisioning": {
+    "last_provisioned": "2026-09-02T14:11:10.703Z",
+    "method": "ble",
+    "running_fw": "v1.0.0"
+  }
+}
