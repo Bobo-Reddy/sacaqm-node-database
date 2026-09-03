@@ -1,0 +1,18 @@
+{
+  "mac": "80:F3:DA:55:2F:1C",
+  "description": "dashboard tester",
+  "indoor_outdoor": "1",
+  "wifi": {
+    "ssid": "eduroam",
+    "username": "2454323"
+  },
+  "gps": {
+    "lat": -26.191575,
+    "lon": 28.027036
+  },
+  "provisioning": {
+    "last_provisioned": "2026-09-03T08:09:28.764Z",
+    "method": "ble",
+    "running_fw": "v1.0.0"
+  }
+}
