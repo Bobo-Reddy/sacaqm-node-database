@@ -1,0 +1,14 @@
+{
+  "mac": "8C:94:DF:47:FF:F4",
+  "description": "LTE BOMBO",
+  "indoor_outdoor": "0",
+  "link": "lte",
+  "gps": {
+    "lat": -26.180258,
+    "lon": 28.052202
+  },
+  "provisioning": {
+    "last_provisioned": "2026-09-04T16:24:40.739Z",
+    "method": "ble"
+  }
+}
