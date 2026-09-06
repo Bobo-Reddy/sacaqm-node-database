@@ -8,8 +8,8 @@
     "lon": 28.052208
   },
   "provisioning": {
-    "last_provisioned": "2026-09-06T12:58:25.954Z",
-    "method": "ble",
+    "last_provisioned": "2026-09-06T13:02:01.146Z",
+    "method": "portal",
     "running_fw": "v1.1.2",
     "carrier": "wifi"
   },
