@@ -1,0 +1,17 @@
+{
+  "mac": "8C:94:DF:47:FF:F4",
+  "description": "huang",
+  "indoor_outdoor": "0",
+  "link": "wifi",
+  "wifi": {
+    "ssid": "B535_2B0D"
+  },
+  "gps": {
+    "lat": -26.180256,
+    "lon": 28.052213
+  },
+  "provisioning": {
+    "last_provisioned": "2026-09-06T14:50:30.717Z",
+    "method": "ble"
+  }
+}
