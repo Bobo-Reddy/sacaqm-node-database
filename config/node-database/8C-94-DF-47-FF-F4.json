@@ -1,14 +1,17 @@
 {
   "mac": "8C:94:DF:47:FF:F4",
-  "description": "hello",
-  "indoor_outdoor": "1",
-  "link": "lte",
+  "description": "new stuff",
+  "indoor_outdoor": "0",
+  "link": "wifi",
   "gps": {
-    "lat": -26.180257,
-    "lon": 28.0522
+    "lat": -26.18025,
+    "lon": 28.05221
   },
   "provisioning": {
-    "last_provisioned": "2026-09-04T16:55:11.164Z",
+    "last_provisioned": "2026-09-06T12:58:05.917Z",
     "method": "ble"
+  },
+  "wifi": {
+    "ssid": "B535_2B0D"
   }
 }
