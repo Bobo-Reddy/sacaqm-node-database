@@ -1,14 +1,14 @@
 {
   "mac": "8C:94:DF:47:FF:F4",
-  "description": "LTE SHISHA",
-  "indoor_outdoor": "0",
-  "link": "lte",
+  "description": "bother pt 1",
+  "indoor_outdoor": "1",
+  "link": "auto",
   "gps": {
-    "lat": -26.180259,
-    "lon": 28.052206
+    "lat": -26.18026,
+    "lon": 28.052196
   },
   "provisioning": {
-    "last_provisioned": "2026-09-06T13:05:21.329Z",
+    "last_provisioned": "2026-09-06T13:15:28.398Z",
     "method": "ble",
     "running_fw": "v1.1.2",
     "carrier": "wifi"
