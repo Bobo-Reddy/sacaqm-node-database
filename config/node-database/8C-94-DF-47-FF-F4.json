@@ -1,0 +1,17 @@
+{
+  "mac": "8C:94:DF:47:FF:F4",
+  "description": "qwerty",
+  "indoor_outdoor": "1",
+  "link": "auto",
+  "wifi": {
+    "ssid": "B535_2B0D"
+  },
+  "gps": {
+    "lat": -26.180251,
+    "lon": 28.052206
+  },
+  "provisioning": {
+    "last_provisioned": "2026-09-06T13:32:20.874Z",
+    "method": "ble"
+  }
+}
