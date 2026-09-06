@@ -1,17 +1,17 @@
 {
   "mac": "80:F3:DA:54:49:A8",
-  "description": "QR windows",
+  "description": "Compatiability",
   "indoor_outdoor": "0",
   "link": "wifi",
   "wifi": {
     "ssid": "B535_2B0D"
   },
   "gps": {
-    "lat": -26.180265,
-    "lon": 28.052184
+    "lat": -26.18025,
+    "lon": 28.052207
   },
   "provisioning": {
-    "last_provisioned": "2026-09-06T10:32:04.649Z",
+    "last_provisioned": "2026-09-06T10:32:18.737Z",
     "method": "ble",
     "running_fw": "v1.0.0"
   }
