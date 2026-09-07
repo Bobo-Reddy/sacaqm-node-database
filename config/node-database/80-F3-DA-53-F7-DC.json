@@ -1,0 +1,17 @@
+{
+  "mac": "80:F3:DA:53:F7:DC",
+  "description": "Morokwa Mine #2",
+  "indoor_outdoor": "1",
+  "link": "wifi",
+  "wifi": {
+    "ssid": "MTNMIFI_0063AD"
+  },
+  "gps": {
+    "lat": -27.994939,
+    "lon": 23.032481
+  },
+  "provisioning": {
+    "last_provisioned": "2026-09-07T10:11:20.151Z",
+    "method": "ble"
+  }
+}
