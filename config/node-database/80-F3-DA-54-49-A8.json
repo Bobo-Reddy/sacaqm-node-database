@@ -4,14 +4,15 @@
   "indoor_outdoor": "0",
   "link": "wifi",
   "wifi": {
-    "ssid": "B535_2B0D"
+    "ssid": "eduroam",
+    "username": "2454323"
   },
   "gps": {
     "lat": -26.18025,
     "lon": 28.052207
   },
   "provisioning": {
-    "last_provisioned": "2026-09-06T10:32:18.737Z",
+    "last_provisioned": "2026-09-07T09:16:05.883Z",
     "method": "ble",
     "running_fw": "v1.0.0"
   }
