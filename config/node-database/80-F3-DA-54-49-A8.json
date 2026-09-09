@@ -1,18 +1,18 @@
 {
   "mac": "80:F3:DA:54:49:A8",
-  "description": "2.4",
-  "indoor_outdoor": "1",
+  "description": "tester",
+  "indoor_outdoor": "0",
   "link": "wifi",
   "wifi": {
-    "ssid": "Boaz's iPhone",
+    "ssid": "Boaz’s iPhone",
     "username": "2454323"
   },
   "gps": {
-    "lat": -26.180271,
-    "lon": 28.052192
+    "lat": -26.18025,
+    "lon": 28.05221
   },
   "provisioning": {
-    "last_provisioned": "2026-09-09T19:14:55.976Z",
+    "last_provisioned": "2026-09-09T19:18:28.585Z",
     "method": "ble",
     "running_fw": "v1.0.0"
   }
