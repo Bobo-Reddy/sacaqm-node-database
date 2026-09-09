@@ -11,7 +11,7 @@
     "lon": 28.052208
   },
   "provisioning": {
-    "last_provisioned": "2026-09-09T20:02:37.251Z",
+    "last_provisioned": "2026-09-09T20:18:43.120Z",
     "method": "ble",
     "running_fw": "v1.1.3",
     "carrier": "wifi"
