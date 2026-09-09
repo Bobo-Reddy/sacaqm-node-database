@@ -1,0 +1,17 @@
+{
+  "mac": "8C:94:DF:47:FF:F4",
+  "description": "the final test",
+  "indoor_outdoor": "0",
+  "link": "auto",
+  "wifi": {
+    "ssid": "B535_2B0D"
+  },
+  "gps": {
+    "lat": -26.180264,
+    "lon": 28.052208
+  },
+  "provisioning": {
+    "last_provisioned": "2026-09-09T20:02:21.708Z",
+    "method": "ble"
+  }
+}
