@@ -2,7 +2,7 @@
   "mac": "8C:94:DF:47:FF:F4",
   "description": "ching chong",
   "indoor_outdoor": "1",
-  "link": "wifi",
+  "link": "lte",
   "wifi": {
     "ssid": "eduroam",
     "username": "2454323"
