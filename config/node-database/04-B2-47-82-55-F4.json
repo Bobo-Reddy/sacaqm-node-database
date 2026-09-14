@@ -1,0 +1,17 @@
+{
+  "mac": "04:B2:47:82:55:F4",
+  "description": "LOW RANGE BEAST MODE",
+  "indoor_outdoor": "0",
+  "link": "wifi",
+  "wifi": {
+    "ssid": "B535_2B0D"
+  },
+  "gps": {
+    "lat": -26.180144,
+    "lon": 28.052248
+  },
+  "provisioning": {
+    "last_provisioned": "2026-09-14T15:31:34.102Z",
+    "method": "ble"
+  }
+}
