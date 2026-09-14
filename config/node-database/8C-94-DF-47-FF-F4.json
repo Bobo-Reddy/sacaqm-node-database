@@ -1,0 +1,14 @@
+{
+  "mac": "8C:94:DF:47:FF:F4",
+  "description": "elab",
+  "indoor_outdoor": "1",
+  "link": "lte",
+  "gps": {
+    "lat": -26.191588,
+    "lon": 28.031223
+  },
+  "provisioning": {
+    "last_provisioned": "2026-09-14T10:40:25.903Z",
+    "method": "ble"
+  }
+}
