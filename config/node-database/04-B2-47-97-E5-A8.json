@@ -1,14 +1,14 @@
 {
   "mac": "04:B2:47:97:E5:A8",
-  "description": "Test",
-  "indoor_outdoor": "1",
+  "description": "MODULE EXTENDED TEST",
+  "indoor_outdoor": "0",
   "link": "lte",
   "gps": {
-    "lat": -26.191573,
-    "lon": 28.03124
+    "lat": -26.180276,
+    "lon": 28.052221
   },
   "provisioning": {
-    "last_provisioned": "2026-10-02T13:22:59.589Z",
+    "last_provisioned": "2026-10-02T16:05:20.492Z",
     "method": "ble"
   }
 }
