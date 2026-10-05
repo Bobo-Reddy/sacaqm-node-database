@@ -4,6 +4,8 @@
   "indoor_outdoor": "1",
   "link": "lte",
   "firmware_version" : "v1.2.5",
+  "firmware_size": 1961184,
+  "firmware_md5": "8dbdf5e74eeeb6886bc0e6098a286b44",
   "gps": {
     "lat": -26.18028,
     "lon": 28.052171
