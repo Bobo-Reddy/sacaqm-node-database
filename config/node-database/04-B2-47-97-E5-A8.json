@@ -1,16 +1,16 @@
 {
   "mac": "04:B2:47:97:E5:A8",
-  "description": "Upload test",
-  "indoor_outdoor": "1",
+  "description": "MODULE EXTENDED TEST",
+  "indoor_outdoor": "0",
   "link": "lte",
   "gps": {
-    "lat": -26.180286,
-    "lon": 28.052223
+    "lat": -26.180276,
+    "lon": 28.052221
   },
   "provisioning": {
-    "last_provisioned": "2026-10-05T11:05:29.768Z",
+    "last_provisioned": "2026-10-05T11:05:31.680Z",
     "method": "ble",
-    "running_fw": "v1.1.5",
+    "running_fw": "v1.1.3",
     "carrier": "lte"
   }
 }
