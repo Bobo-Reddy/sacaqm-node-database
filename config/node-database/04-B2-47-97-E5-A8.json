@@ -6,6 +6,9 @@
   "wifi": {
     "ssid": "B535_2B0D"
   },
+  "firmware_version": "v1.2.9",
+  "firmware_size": 1961104,
+  "firmware_md5": "9033f7126cdf62c04e7114e62e5abdb2",
   "gps": {
     "lat": -26.180279,
     "lon": 28.052171
