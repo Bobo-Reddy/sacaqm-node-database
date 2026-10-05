@@ -3,6 +3,10 @@
   "description": "LTE DOWNLOAD TEST v2",
   "indoor_outdoor": "1",
   "link": "lte",
+  "firmware_version": "v1.2.9",
+  "firmware_size": 1961104,
+  "firmware_md5": "9033f7126cdf62c04e7114e62e5abdb2",
+  "gps": {
   "gps": {
     "lat": -26.18028,
     "lon": 28.052171
