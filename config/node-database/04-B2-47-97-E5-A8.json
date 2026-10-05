@@ -1,0 +1,14 @@
+{
+  "mac": "04:B2:47:97:E5:A8",
+  "description": "LTE DOWNLOAD TEST v2",
+  "indoor_outdoor": "1",
+  "link": "lte",
+  "gps": {
+    "lat": -26.18028,
+    "lon": 28.052171
+  },
+  "provisioning": {
+    "last_provisioned": "2026-10-05T18:19:15.187Z",
+    "method": "ble"
+  }
+}
