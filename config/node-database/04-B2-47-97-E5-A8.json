@@ -3,6 +3,7 @@
   "description": "upload test",
   "indoor_outdoor": "1",
   "link": "lte",
+  "firmware_version": "v1.1.7",
   "gps": {
     "lat": -26.180316,
     "lon": 28.052207
