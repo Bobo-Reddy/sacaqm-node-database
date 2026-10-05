@@ -4,11 +4,13 @@
   "indoor_outdoor": "1",
   "link": "lte",
   "gps": {
-    "lat": -26.19153,
+    "lat": -26.191528,
     "lon": 28.031174
   },
   "provisioning": {
-    "last_provisioned": "2026-10-05T13:38:49.352Z",
-    "method": "ble"
+    "last_provisioned": "2026-10-05T13:38:51.965Z",
+    "method": "ble",
+    "running_fw": "v1.2.0",
+    "carrier": "lte"
   }
 }
