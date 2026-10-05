@@ -1,0 +1,14 @@
+{
+  "mac": "04:B2:47:97:E5:A8",
+  "description": "upload test",
+  "indoor_outdoor": "1",
+  "link": "lte",
+  "gps": {
+    "lat": -26.180316,
+    "lon": 28.052207
+  },
+  "provisioning": {
+    "last_provisioned": "2026-10-05T11:35:34.904Z",
+    "method": "ble"
+  }
+}
