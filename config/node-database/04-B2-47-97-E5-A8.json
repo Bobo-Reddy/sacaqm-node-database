@@ -3,7 +3,7 @@
   "description": "LTE DOWNLOAD",
   "indoor_outdoor": "1",
   "link": "lte",
-  "firmware_version" : "v1.2.1",
+  "firmware_version" : "1.2.1",
   "gps": {
     "lat": -26.191528,
     "lon": 28.031174
