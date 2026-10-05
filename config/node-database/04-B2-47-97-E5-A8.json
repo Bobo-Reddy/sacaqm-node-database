@@ -1,9 +1,9 @@
 {
   "mac": "04:B2:47:97:E5:A8",
-  "description": "upload test wifi change",
+  "description": "LTE DOWNLOAD",
   "indoor_outdoor": "1",
-  "link": "wifi",
-    "wifi": {
+  "link": "lte",
+  "wifi": {
     "ssid": "B535_2B0D",
     "password": "ian2YLg7F5685F2T"
   },
@@ -12,7 +12,7 @@
     "lon": 28.052237
   },
   "provisioning": {
-    "last_provisioned": "2026-10-05T12:41:39.504Z",
+    "last_provisioned": "2026-10-05T13:32:47.668Z",
     "method": "ble",
     "running_fw": "v1.1.8",
     "carrier": "lte"
