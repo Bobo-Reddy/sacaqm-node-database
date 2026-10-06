@@ -3,7 +3,7 @@
   "description": "Tester hello",
   "indoor_outdoor": "1",
   "link": "lte",
-  "firmware_version": "v1.2.8",
+  "firmware_version": "v1.2.9",
   "firmware_size": 1961104,
   "firmware_md5": "9033f7126cdf62c04e7114e62e5abdb2",
   "gps": {
