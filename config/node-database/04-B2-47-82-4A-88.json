@@ -1,0 +1,20 @@
+{
+  "mac": "04:B2:47:82:4A:88",
+  "description": "Test",
+  "indoor_outdoor": "0",
+  "link": "wifi",
+  "wifi": {
+    "ssid": "eduroam",
+    "username": "2454323"
+  },
+  "gps": {
+    "lat": -26.19167,
+    "lon": 28.031332
+  },
+  "provisioning": {
+    "last_provisioned": "2026-10-08T14:10:10.365Z",
+    "method": "portal",
+    "running_fw": "v1.2.8",
+    "carrier": "wifi"
+  }
+}
