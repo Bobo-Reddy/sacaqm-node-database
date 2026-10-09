@@ -1,0 +1,14 @@
+{
+  "mac": "04:B2:47:82:6A:70",
+  "description": "Boaz - VERSION 2",
+  "indoor_outdoor": "1",
+  "link": "lte",
+  "gps": {
+    "lat": -26.191547,
+    "lon": 28.031151
+  },
+  "provisioning": {
+    "last_provisioned": "2026-10-09T15:44:11.058Z",
+    "method": "ble"
+  }
+}
