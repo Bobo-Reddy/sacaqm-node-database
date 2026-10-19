@@ -3,6 +3,9 @@
   "description": "Continental Crusher v2",
   "indoor_outdoor": "1",
   "link": "wifi",
+  "firmware_version": "v1.2.8",
+  "firmware_size": 1961104,
+  "firmware_md5": "9033f7126cdf62c04e7114e62e5abdb2",
   "wifi": {
     "ssid": "Mamba_Corp",
     "password": "M@mb@123"
