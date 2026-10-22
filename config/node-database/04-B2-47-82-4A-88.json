@@ -1,0 +1,19 @@
+{
+  "mac": "04:B2:47:82:4A:88",
+  "description": "PKVW SRDN",
+  "indoor_outdoor": "1",
+  "link": "wifi",
+  "wifi": {
+    "ssid": "Sheridan [2Ghz]"
+  },
+  "gps": {
+    "lat": -26.16,
+    "lon": 28.02
+  },
+  "provisioning": {
+    "last_provisioned": "2026-10-22T05:53:13.588Z",
+    "method": "portal",
+    "running_fw": "v1.2.8",
+    "carrier": "wifi"
+  }
+}
