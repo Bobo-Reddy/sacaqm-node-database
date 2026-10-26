@@ -1,0 +1,17 @@
+{
+  "mac": "04:B2:47:96:CC:64",
+  "description": "Lomoteng Office #2",
+  "indoor_outdoor": "0",
+  "link": "wifi",
+  "wifi": {
+    "ssid": "LIDINO ADMIN 1"
+  },
+  "gps": {
+    "lat": -28.035747,
+    "lon": 23.018276
+  },
+  "provisioning": {
+    "last_provisioned": "2026-10-26T10:27:53.305Z",
+    "method": "ble"
+  }
+}
