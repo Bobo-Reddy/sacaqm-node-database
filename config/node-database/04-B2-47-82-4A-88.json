@@ -8,11 +8,11 @@
   },
   "gps": {
     "lat": -26.16,
-    "lon": 28.02
+    "lon": 28.019999
   },
   "provisioning": {
-    "last_provisioned": "2026-10-22T05:53:13.588Z",
-    "method": "portal",
+    "last_provisioned": "2026-10-27T14:41:44.624Z",
+    "method": "node",
     "running_fw": "v1.2.8",
     "carrier": "wifi"
   }
