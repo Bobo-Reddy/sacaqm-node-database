@@ -1,0 +1,17 @@
+{
+  "mac": "04:B2:47:96:CC:64",
+  "description": "heloooo",
+  "indoor_outdoor": "1",
+  "link": "wifi",
+  "wifi": {
+    "ssid": "Kathu Inn - Guest"
+  },
+  "gps": {
+    "lat": -27.71199,
+    "lon": 23.072908
+  },
+  "provisioning": {
+    "last_provisioned": "2026-10-27T06:06:55.015Z",
+    "method": "ble"
+  }
+}
