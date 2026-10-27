@@ -1,11 +1,11 @@
 {
   "mac": "04:B2:47:83:10:6C",
-  "description": "Boaz - VERSION 1",
+  "description": "Glosam Indoor Office (LTE)",
   "indoor_outdoor": "1",
   "link": "lte",
   "gps": {
-    "lat": -26.191549,
-    "lon": 28.031229
+    "lat": -28.077904,
+    "lon": 23.042365
   },
   "provisioning": {
     "last_provisioned": "2026-10-11T12:24:24.170Z",
