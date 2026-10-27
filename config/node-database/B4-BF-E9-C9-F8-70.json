@@ -1,0 +1,14 @@
+{
+  "mac": "B4:BF:E9:C9:F8:70",
+  "description": "1 2 Testing Brenton",
+  "indoor_outdoor": "1",
+  "link": "lte",
+  "gps": {
+    "lat": -26.191635,
+    "lon": 28.031511
+  },
+  "provisioning": {
+    "last_provisioned": "2026-10-27T05:20:44.329Z",
+    "method": "ble"
+  }
+}
