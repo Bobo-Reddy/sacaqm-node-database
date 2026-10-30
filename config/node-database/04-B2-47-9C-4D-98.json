@@ -1,0 +1,14 @@
+{
+  "mac": "04:B2:47:9C:4D:98",
+  "description": "UCT TEST",
+  "indoor_outdoor": "0",
+  "link": "lte",
+  "gps": {
+    "lat": -26.180279,
+    "lon": 28.052204
+  },
+  "provisioning": {
+    "last_provisioned": "2026-10-30T18:34:20.515Z",
+    "method": "ble"
+  }
+}
