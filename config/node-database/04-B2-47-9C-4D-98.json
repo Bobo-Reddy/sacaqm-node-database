@@ -1,14 +1,14 @@
 {
   "mac": "04:B2:47:9C:4D:98",
-  "description": "UCT TEST",
-  "indoor_outdoor": "0",
+  "description": "CALIBRATION HIGH RANGE",
+  "indoor_outdoor": "1",
   "link": "lte",
   "gps": {
-    "lat": -26.180279,
-    "lon": 28.052204
+    "lat": -26.180269,
+    "lon": 28.052272
   },
   "provisioning": {
-    "last_provisioned": "2026-10-30T18:34:27.130Z",
+    "last_provisioned": "2026-11-03T06:14:17.667Z",
     "method": "ble",
     "running_fw": "v1.3.0-test",
     "carrier": "lte"
