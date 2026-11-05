@@ -8,15 +8,15 @@
     "lon": 28.052252
   },
   "provisioning": {
-    "last_provisioned": "2026-11-05T12:10:47.107Z",
+    "last_provisioned": "2026-11-05T12:26:40.732Z",
     "method": "node",
     "running_fw": "v1.3.0",
     "carrier": "lte"
   },
   "lte": {
-    "lock_state": "auto",
-    "bands_applied": "auto",
-    "rat_applied": "auto",
+    "lock_state": "applied",
+    "bands_applied": "8,38",
+    "rat_applied": "lte",
     "survey_id": "mw3ghg6ubnbo",
     "survey_id_done": "mw3ghg6ubnbo",
     "survey_suggest": "8,38",
@@ -25,7 +25,8 @@
       38
     ],
     "rat": "lte",
-    "lock_id": "mw3h4aokn291"
+    "lock_id": "mw3h4aokn291",
+    "lock_id_applied": "mw3h4aokn291"
   },
   "altitude": {
     "stored_m": 1751,
