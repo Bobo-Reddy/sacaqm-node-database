@@ -8,8 +8,8 @@
     "lon": 28.052252
   },
   "provisioning": {
-    "last_provisioned": "2026-11-05T10:36:47.893Z",
-    "method": "ble",
+    "last_provisioned": "2026-11-05T10:38:03.065Z",
+    "method": "node",
     "running_fw": "v1.3.0",
     "carrier": "lte"
   },
@@ -20,9 +20,9 @@
     "survey_id": "mw3evkveici5"
   },
   "altitude": {
-    "stored_m": 0,
+    "stored_m": 1751,
     "confirmed": true,
-    "applied_m": 0,
+    "applied_m": 1751,
     "set_m": 1751,
     "source": "the node’s stored position",
     "requested_at": "2026-11-05T10:37:06.254Z"
