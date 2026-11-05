@@ -2,22 +2,23 @@
   "mac": "04:B2:47:82:F1:80",
   "fw": "v1.3.0",
   "trigger": "boot",
-  "uptime_s": 67,
-  "node_time": 1793882142,
+  "uptime_s": 276,
+  "node_time": 1793882451,
   "reset_reason": "power on",
   "carrier": "lte",
   "uploads_ok": 1,
   "fail_streak": 0,
-  "free_heap": 24684,
+  "free_heap": 190984,
   "config_read": {
-    "ok": false,
-    "http": 0,
-    "via": ""
+    "ok": true,
+    "http": 200,
+    "via": "worker",
+    "at": 1793882209
   },
   "sensor": {
     "temp_offset_c": 0,
-    "altitude_m": 0,
-    "altitude_confirmed_m": 0
+    "altitude_m": 1751,
+    "altitude_confirmed_m": 1751
   },
   "lte": {
     "bands_wanted": "auto",
@@ -27,29 +28,130 @@
     "cell": {
       "rat": "LTE",
       "plmn": "655-01",
-      "band": 3,
-      "cell": 57989406,
-      "pci": 345,
-      "earfcn": 1776,
-      "rsrp": -97,
-      "rsrq": -17,
-      "sinr": 8
+      "band": 28,
+      "cell": 53936923,
+      "pci": 395,
+      "earfcn": 9360,
+      "rsrp": -86,
+      "rsrq": -7,
+      "sinr": 17
     }
   },
   "history": [
     {
-      "t": 1793882142,
-      "up": 67,
+      "t": 1793882451,
+      "up": 275,
       "result": "sent",
       "code": 200,
       "rat": "LTE",
-      "band": 3,
-      "cell": 57989406,
-      "rsrp": -97,
-      "rsrq": -17,
-      "sinr": 8,
+      "band": 28,
+      "cell": 53936923,
+      "rsrp": -86,
+      "rsrq": -7,
+      "sinr": 17,
       "streak": 0
     }
   ],
-  "received_at": "2026-11-05T12:35:44.376Z"
+  "received_at": "2026-11-05T12:40:53.545Z",
+  "survey": {
+    "id": "mw3j4cr101zb",
+    "started": 1793882224,
+    "bands": [
+      {
+        "band": 1,
+        "reg_s": 3,
+        "plmn": "655-01",
+        "cell": 53936917,
+        "pci": 296,
+        "rsrp": -102,
+        "rsrq": -13,
+        "sinr": 13,
+        "http": 200,
+        "score": -2,
+        "result": "data ok"
+      },
+      {
+        "band": 3,
+        "reg_s": 3,
+        "plmn": "655-01",
+        "cell": 57989406,
+        "pci": 345,
+        "rsrp": -99,
+        "rsrq": -20,
+        "sinr": 5,
+        "http": 200,
+        "score": -29,
+        "result": "data ok"
+      },
+      {
+        "band": 7,
+        "result": "no service"
+      },
+      {
+        "band": 8,
+        "reg_s": 3,
+        "plmn": "655-01",
+        "cell": 53936918,
+        "pci": 395,
+        "rsrp": -91,
+        "rsrq": -11,
+        "sinr": 14,
+        "http": 200,
+        "score": 15,
+        "result": "data ok"
+      },
+      {
+        "band": 20,
+        "result": "no service"
+      },
+      {
+        "band": 28,
+        "reg_s": 3,
+        "plmn": "655-01",
+        "cell": 53936923,
+        "pci": 395,
+        "rsrp": -87,
+        "rsrq": -8,
+        "sinr": 18,
+        "http": 200,
+        "score": 33,
+        "result": "data ok"
+      },
+      {
+        "band": 38,
+        "reg_s": 3,
+        "plmn": "655-01",
+        "cell": 234748962,
+        "pci": 348,
+        "rsrp": -99,
+        "rsrq": -12,
+        "sinr": 13,
+        "http": 200,
+        "score": 3,
+        "result": "data ok"
+      },
+      {
+        "band": 40,
+        "result": "no service"
+      },
+      {
+        "band": 41,
+        "reg_s": 3,
+        "plmn": "655-01",
+        "cell": 234748962,
+        "pci": 348,
+        "rsrp": -101,
+        "rsrq": -12,
+        "sinr": 13,
+        "http": 200,
+        "score": 1,
+        "result": "data ok"
+      }
+    ],
+    "suggest": [
+      28,
+      8
+    ],
+    "finished": 1793882438
+  }
 }
