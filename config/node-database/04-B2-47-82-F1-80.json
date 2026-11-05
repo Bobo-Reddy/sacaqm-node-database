@@ -16,7 +16,8 @@
   "lte": {
     "lock_state": "auto",
     "bands_applied": "auto",
-    "rat_applied": "auto"
+    "rat_applied": "auto",
+    "survey_id": "mw3ghg6ubnbo"
   },
   "altitude": {
     "stored_m": 0,
@@ -30,6 +31,6 @@
     "temp_offset_c": 0
   },
   "developer": {
-    "last_change": "2026-11-05T11:22:08.083Z"
+    "last_change": "2026-11-05T11:22:11.866Z"
   }
 }
