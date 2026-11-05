@@ -2,8 +2,8 @@
   "mac": "04:B2:47:82:F1:80",
   "fw": "v1.3.0",
   "trigger": "boot",
-  "uptime_s": 150,
-  "node_time": 1793875943,
+  "uptime_s": 55,
+  "node_time": 1793876330,
   "reset_reason": "power on",
   "carrier": "lte",
   "uploads_ok": 1,
@@ -22,31 +22,31 @@
     "cell": {
       "rat": "LTE",
       "plmn": "655-01",
-      "band": 3,
-      "cell": 53936916,
-      "pci": 350,
-      "earfcn": 1776,
-      "rsrp": -96,
-      "rsrq": -17,
-      "sinr": 13
+      "band": 41,
+      "cell": 53937022,
+      "pci": 209,
+      "earfcn": 41490,
+      "rsrp": -105,
+      "rsrq": -12,
+      "sinr": 12
     }
   },
   "history": [
     {
-      "t": 1793875943,
-      "up": 150,
+      "t": 1793876329,
+      "up": 55,
       "result": "sent",
       "code": 200,
       "rat": "LTE",
-      "band": 3,
-      "cell": 53936916,
-      "rsrp": -96,
-      "rsrq": -17,
-      "sinr": 13,
+      "band": 41,
+      "cell": 53937022,
+      "rsrp": -105,
+      "rsrq": -12,
+      "sinr": 12,
       "streak": 0
     }
   ],
-  "received_at": "2026-11-05T10:52:26.551Z",
+  "received_at": "2026-11-05T10:58:51.878Z",
   "survey": {
     "id": "mw3evkveici5",
     "started": 1793875093,
