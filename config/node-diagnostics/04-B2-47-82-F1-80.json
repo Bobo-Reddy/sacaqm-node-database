@@ -2,18 +2,18 @@
   "mac": "04:B2:47:82:F1:80",
   "fw": "v1.3.0",
   "trigger": "boot",
-  "uptime_s": 276,
-  "node_time": 1793882451,
+  "uptime_s": 71,
+  "node_time": 1793882760,
   "reset_reason": "power on",
   "carrier": "lte",
   "uploads_ok": 1,
   "fail_streak": 0,
-  "free_heap": 190984,
+  "free_heap": 191072,
   "config_read": {
     "ok": true,
     "http": 200,
     "via": "worker",
-    "at": 1793882209
+    "at": 1793882726
   },
   "sensor": {
     "temp_offset_c": 0,
@@ -21,38 +21,38 @@
     "altitude_confirmed_m": 1751
   },
   "lte": {
-    "bands_wanted": "auto",
-    "rat_wanted": "auto",
-    "lock_state": "auto",
-    "bands_applied": "auto",
+    "bands_wanted": "8,28",
+    "rat_wanted": "lte",
+    "lock_state": "applied",
+    "bands_applied": "8,28",
     "cell": {
       "rat": "LTE",
       "plmn": "655-01",
-      "band": 28,
-      "cell": 53936923,
+      "band": 8,
+      "cell": 53936918,
       "pci": 395,
-      "earfcn": 9360,
+      "earfcn": 3625,
       "rsrp": -86,
-      "rsrq": -7,
-      "sinr": 17
+      "rsrq": -13,
+      "sinr": 15
     }
   },
   "history": [
     {
-      "t": 1793882451,
-      "up": 275,
+      "t": 1793882760,
+      "up": 70,
       "result": "sent",
       "code": 200,
       "rat": "LTE",
-      "band": 28,
-      "cell": 53936923,
+      "band": 8,
+      "cell": 53936918,
       "rsrp": -86,
-      "rsrq": -7,
-      "sinr": 17,
+      "rsrq": -13,
+      "sinr": 15,
       "streak": 0
     }
   ],
-  "received_at": "2026-11-05T12:40:53.545Z",
+  "received_at": "2026-11-05T12:46:02.605Z",
   "survey": {
     "id": "mw3j4cr101zb",
     "started": 1793882224,
@@ -153,5 +153,12 @@
       8
     ],
     "finished": 1793882438
+  },
+  "lock_event": {
+    "event": "applied",
+    "bands": "8,28",
+    "rat": "lte",
+    "up": 37,
+    "at": 1793882726
   }
 }
