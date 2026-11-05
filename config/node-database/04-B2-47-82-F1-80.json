@@ -21,9 +21,15 @@
   "altitude": {
     "stored_m": 0,
     "confirmed": true,
-    "applied_m": 0
+    "applied_m": 0,
+    "set_m": 1751,
+    "source": "the node’s stored position",
+    "requested_at": "2026-11-05T10:37:06.254Z"
   },
   "sensor": {
     "temp_offset_c": 0
+  },
+  "developer": {
+    "last_change": "2026-11-05T10:37:06.728Z"
   }
 }
