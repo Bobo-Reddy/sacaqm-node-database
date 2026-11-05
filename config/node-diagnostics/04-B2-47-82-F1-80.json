@@ -1,0 +1,50 @@
+{
+  "mac": "04:B2:47:82:F1:80",
+  "fw": "v1.3.0",
+  "trigger": "boot",
+  "uptime_s": 101,
+  "node_time": 1793875017,
+  "reset_reason": "power on",
+  "carrier": "lte",
+  "uploads_ok": 1,
+  "fail_streak": 0,
+  "free_heap": 24704,
+  "sensor": {
+    "temp_offset_c": 0,
+    "altitude_m": 0,
+    "altitude_confirmed_m": 0
+  },
+  "lte": {
+    "bands_wanted": "auto",
+    "rat_wanted": "auto",
+    "lock_state": "auto",
+    "bands_applied": "auto",
+    "cell": {
+      "rat": "LTE",
+      "plmn": "655-01",
+      "band": 41,
+      "cell": 53937022,
+      "pci": 209,
+      "earfcn": 41490,
+      "rsrp": -104,
+      "rsrq": -11,
+      "sinr": 10
+    }
+  },
+  "history": [
+    {
+      "t": 1793875016,
+      "up": 101,
+      "result": "sent",
+      "code": 200,
+      "rat": "LTE",
+      "band": 41,
+      "cell": 53937022,
+      "rsrp": -104,
+      "rsrq": -11,
+      "sinr": 10,
+      "streak": 0
+    }
+  ],
+  "received_at": "2026-11-05T10:36:59.631Z"
+}
