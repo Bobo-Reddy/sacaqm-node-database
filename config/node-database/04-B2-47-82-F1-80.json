@@ -19,7 +19,13 @@
     "rat_applied": "auto",
     "survey_id": "mw3evkveici5",
     "survey_id_done": "mw3evkveici5",
-    "survey_suggest": "8,28"
+    "survey_suggest": "8,28",
+    "bands": [
+      8,
+      28
+    ],
+    "rat": "lte",
+    "lock_id": "mw3fbi6aatmw"
   },
   "altitude": {
     "stored_m": 1751,
@@ -33,6 +39,6 @@
     "temp_offset_c": 0
   },
   "developer": {
-    "last_change": "2026-11-05T10:37:11.839Z"
+    "last_change": "2026-11-05T10:49:36.838Z"
   }
 }
