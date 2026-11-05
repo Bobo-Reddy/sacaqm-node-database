@@ -25,7 +25,7 @@
       38
     ],
     "rat": "lte",
-    "lock_id": "mw3h485815rg"
+    "lock_id": "mw3h4aokn291"
   },
   "altitude": {
     "stored_m": 1751,
@@ -39,6 +39,6 @@
     "temp_offset_c": 0
   },
   "developer": {
-    "last_change": "2026-11-05T11:39:54.891Z"
+    "last_change": "2026-11-05T11:39:57.756Z"
   }
 }
