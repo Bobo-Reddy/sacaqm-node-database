@@ -8,7 +8,7 @@
     "lon": 28.052252
   },
   "provisioning": {
-    "last_provisioned": "2026-11-05T10:38:03.065Z",
+    "last_provisioned": "2026-11-05T10:41:51.460Z",
     "method": "node",
     "running_fw": "v1.3.0",
     "carrier": "lte"
@@ -17,7 +17,9 @@
     "lock_state": "auto",
     "bands_applied": "auto",
     "rat_applied": "auto",
-    "survey_id": "mw3evkveici5"
+    "survey_id": "mw3evkveici5",
+    "survey_id_done": "mw3evkveici5",
+    "survey_suggest": "8,28"
   },
   "altitude": {
     "stored_m": 1751,
