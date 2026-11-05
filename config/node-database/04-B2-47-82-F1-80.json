@@ -1,0 +1,14 @@
+{
+  "mac": "04:B2:47:82:F1:80",
+  "description": "SAAQIS TEST",
+  "indoor_outdoor": "1",
+  "link": "lte",
+  "gps": {
+    "lat": -26.180286,
+    "lon": 28.052257
+  },
+  "provisioning": {
+    "last_provisioned": "2026-11-05T09:43:30.409Z",
+    "method": "ble"
+  }
+}
