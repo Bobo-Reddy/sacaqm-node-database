@@ -1,0 +1,41 @@
+{
+  "mac": "04:B2:47:82:75:8C",
+  "fw": "v1.3.0",
+  "trigger": "boot",
+  "uptime_s": 75,
+  "node_time": 1794220322,
+  "reset_reason": "software restart",
+  "carrier": "wifi",
+  "uploads_ok": 1,
+  "fail_streak": 0,
+  "free_heap": 138408,
+  "config_read": {
+    "at": 1794220303,
+    "ok": true,
+    "http": 200,
+    "via": "worker"
+  },
+  "sensor": {
+    "temp_offset_c": 0,
+    "altitude_m": 0,
+    "altitude_confirmed_m": 0
+  },
+  "lte": {
+    "bands_wanted": "auto",
+    "rat_wanted": "auto",
+    "lock_state": "auto",
+    "bands_applied": ""
+  },
+  "history": [
+    {
+      "t": 1794220322,
+      "up": 75,
+      "result": "sent",
+      "code": 200,
+      "rat": "WiFi",
+      "rssi": -71,
+      "streak": 0
+    }
+  ],
+  "received_at": "2026-11-09T10:32:03.430Z"
+}
