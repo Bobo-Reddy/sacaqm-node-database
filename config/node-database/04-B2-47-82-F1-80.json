@@ -8,8 +8,8 @@
     "lon": 28.05234
   },
   "provisioning": {
-    "last_provisioned": "2026-11-09T18:51:08.889Z",
-    "method": "ble",
+    "last_provisioned": "2026-11-09T19:05:51.438Z",
+    "method": "node",
     "running_fw": "v1.3.0",
     "carrier": "wifi"
   },
@@ -29,9 +29,9 @@
     "lock_id_applied": "mw3jfaa6jxkz"
   },
   "altitude": {
-    "stored_m": 1751,
+    "stored_m": 0,
     "confirmed": true,
-    "applied_m": 1751,
+    "applied_m": 0,
     "set_m": 0,
     "source": "typed in",
     "requested_at": "2026-11-09T19:05:00.601Z"
