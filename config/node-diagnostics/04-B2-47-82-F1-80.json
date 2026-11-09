@@ -2,18 +2,18 @@
   "mac": "04:B2:47:82:F1:80",
   "fw": "v1.3.0",
   "trigger": "boot",
-  "uptime_s": 126,
-  "node_time": 1794250279,
+  "uptime_s": 123,
+  "node_time": 1794250588,
   "reset_reason": "power on",
   "carrier": "wifi",
   "uploads_ok": 1,
   "fail_streak": 0,
-  "free_heap": 147576,
+  "free_heap": 143608,
   "config_read": {
     "ok": true,
     "http": 200,
     "via": "worker",
-    "at": 1794250252
+    "at": 1794250504
   },
   "sensor": {
     "temp_offset_c": 0,
@@ -39,16 +39,16 @@
   },
   "history": [
     {
-      "t": 1794250279,
-      "up": 126,
+      "t": 1794250588,
+      "up": 123,
       "result": "sent",
       "code": 200,
       "rat": "WiFi",
-      "rssi": -71,
+      "rssi": -75,
       "streak": 0
     }
   ],
-  "received_at": "2026-11-09T18:51:21.203Z",
+  "received_at": "2026-11-09T18:56:29.838Z",
   "survey": {
     "id": "mw3j4cr101zb",
     "started": 1794250267,
