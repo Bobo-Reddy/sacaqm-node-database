@@ -32,15 +32,15 @@
     "stored_m": 1751,
     "confirmed": true,
     "applied_m": 1751,
-    "set_m": 1751,
-    "source": "the node’s stored position",
-    "requested_at": "2026-11-05T12:35:51.436Z"
+    "set_m": 0,
+    "source": "typed in",
+    "requested_at": "2026-11-09T19:05:00.601Z"
   },
   "sensor": {
     "temp_offset_c": 0
   },
   "developer": {
-    "last_change": "2026-11-05T12:46:39.451Z"
+    "last_change": "2026-11-09T19:05:01.658Z"
   },
   "dev_note": "SAAQIS station locked to B8 and B28 ",
   "wifi": {
