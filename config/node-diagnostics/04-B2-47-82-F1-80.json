@@ -2,18 +2,18 @@
   "mac": "04:B2:47:82:F1:80",
   "fw": "v1.3.0",
   "trigger": "boot",
-  "uptime_s": 71,
-  "node_time": 1793882760,
+  "uptime_s": 126,
+  "node_time": 1794250279,
   "reset_reason": "power on",
-  "carrier": "lte",
+  "carrier": "wifi",
   "uploads_ok": 1,
   "fail_streak": 0,
-  "free_heap": 191072,
+  "free_heap": 147576,
   "config_read": {
     "ok": true,
     "http": 200,
     "via": "worker",
-    "at": 1793882726
+    "at": 1794250252
   },
   "sensor": {
     "temp_offset_c": 0,
@@ -23,8 +23,8 @@
   "lte": {
     "bands_wanted": "8,28",
     "rat_wanted": "lte",
-    "lock_state": "applied",
-    "bands_applied": "8,28",
+    "lock_state": "pending",
+    "bands_applied": "",
     "cell": {
       "rat": "LTE",
       "plmn": "655-01",
@@ -39,23 +39,19 @@
   },
   "history": [
     {
-      "t": 1793882760,
-      "up": 70,
+      "t": 1794250279,
+      "up": 126,
       "result": "sent",
       "code": 200,
-      "rat": "LTE",
-      "band": 8,
-      "cell": 53936918,
-      "rsrp": -86,
-      "rsrq": -13,
-      "sinr": 15,
+      "rat": "WiFi",
+      "rssi": -71,
       "streak": 0
     }
   ],
-  "received_at": "2026-11-05T12:46:02.605Z",
+  "received_at": "2026-11-09T18:51:21.203Z",
   "survey": {
     "id": "mw3j4cr101zb",
-    "started": 1793882224,
+    "started": 1794250267,
     "bands": [
       {
         "band": 1,
@@ -152,7 +148,8 @@
       28,
       8
     ],
-    "finished": 1793882438
+    "finished": 1794250267,
+    "skipped": "node is not on LTE"
   },
   "lock_event": {
     "event": "applied",
