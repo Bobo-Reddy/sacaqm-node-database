@@ -2,15 +2,15 @@
   "mac": "04:B2:47:82:75:8C",
   "fw": "v1.3.0",
   "trigger": "boot",
-  "uptime_s": 284,
-  "node_time": 1794220631,
-  "reset_reason": "power on",
+  "uptime_s": 218,
+  "node_time": 1794220940,
+  "reset_reason": "brownout",
   "carrier": "wifi",
   "uploads_ok": 1,
   "fail_streak": 0,
-  "free_heap": 135088,
+  "free_heap": 135308,
   "config_read": {
-    "at": 1794220388,
+    "at": 1794220758,
     "ok": true,
     "http": 200,
     "via": "worker"
@@ -35,7 +35,16 @@
       "rat": "WiFi",
       "rssi": -72,
       "streak": 0
+    },
+    {
+      "t": 1794220940,
+      "up": 218,
+      "result": "sent",
+      "code": 200,
+      "rat": "WiFi",
+      "rssi": -71,
+      "streak": 0
     }
   ],
-  "received_at": "2026-11-09T10:37:12.709Z"
+  "received_at": "2026-11-09T10:42:27.618Z"
 }
