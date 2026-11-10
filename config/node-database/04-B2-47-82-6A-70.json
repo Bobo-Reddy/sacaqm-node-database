@@ -8,7 +8,7 @@
     "lon": 23.042003
   },
   "provisioning": {
-    "last_provisioned": "2026-11-10T10:37:38.094Z",
+    "last_provisioned": "2026-11-10T21:48:50.303Z",
     "method": "node",
     "running_fw": "v1.2.8",
     "carrier": "lte"
