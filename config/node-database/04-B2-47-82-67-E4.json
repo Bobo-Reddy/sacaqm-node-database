@@ -31,6 +31,11 @@
   "co2_asc": {
     "stored": false,
     "confirmed": true,
-    "applied": false
+    "applied": false,
+    "set_enabled": true,
+    "requested_at": "2026-11-11T09:27:58.917Z"
+  },
+  "developer": {
+    "last_change": "2026-11-11T09:27:59.519Z"
   }
 }
