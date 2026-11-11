@@ -1,0 +1,36 @@
+{
+  "mac": "B4:BF:E9:C9:F1:28",
+  "description": "ASC Disabled",
+  "indoor_outdoor": "0",
+  "link": "wifi",
+  "wifi": {
+    "ssid": "eduroam",
+    "username": "2454323"
+  },
+  "lte": {
+    "lock_state": "auto"
+  },
+  "gps": {
+    "lat": -26.191551,
+    "lon": 28.031163
+  },
+  "altitude": {
+    "stored_m": 0,
+    "confirmed": true,
+    "applied_m": 0
+  },
+  "sensor": {
+    "temp_offset_c": 0
+  },
+  "co2_asc": {
+    "stored": false,
+    "confirmed": true,
+    "applied": false
+  },
+  "provisioning": {
+    "last_provisioned": "2026-11-11T09:33:03.219Z",
+    "method": "ble",
+    "running_fw": "v1.3.1",
+    "carrier": "wifi"
+  }
+}
