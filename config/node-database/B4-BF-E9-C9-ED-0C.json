@@ -1,0 +1,18 @@
+{
+  "mac": "B4:BF:E9:C9:ED:0C",
+  "description": "tester  v2",
+  "indoor_outdoor": "0",
+  "link": "wifi",
+  "wifi": {
+    "ssid": "eduroam",
+    "username": "2454323"
+  },
+  "gps": {
+    "lat": -26.191502,
+    "lon": 28.031199
+  },
+  "provisioning": {
+    "last_provisioned": "2026-11-11T11:39:09.937Z",
+    "method": "ble"
+  }
+}
