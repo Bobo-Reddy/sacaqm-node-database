@@ -12,7 +12,20 @@
     "lon": 28.031199
   },
   "provisioning": {
-    "last_provisioned": "2026-11-11T11:31:47.243Z",
-    "method": "ble"
+    "last_provisioned": "2026-11-11T11:32:02.061Z",
+    "method": "ble",
+    "running_fw": "v1.3.0",
+    "carrier": "wifi"
+  },
+  "lte": {
+    "lock_state": "auto"
+  },
+  "altitude": {
+    "stored_m": 0,
+    "confirmed": true,
+    "applied_m": 0
+  },
+  "sensor": {
+    "temp_offset_c": 0
   }
 }
