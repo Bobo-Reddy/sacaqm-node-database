@@ -2,15 +2,15 @@
   "mac": "04:B2:47:82:67:E4",
   "fw": "v1.3.1",
   "trigger": "hourly",
-  "uptime_s": 227177,
-  "node_time": 1794617505,
+  "uptime_s": 231017,
+  "node_time": 1794621346,
   "reset_reason": "power on",
   "carrier": "wifi",
-  "uploads_ok": 706,
+  "uploads_ok": 718,
   "fail_streak": 0,
-  "free_heap": 134444,
+  "free_heap": 134296,
   "config_read": {
-    "at": 1794616538,
+    "at": 1794620378,
     "ok": true,
     "http": 200,
     "via": "worker"
@@ -29,114 +29,6 @@
     "bands_applied": ""
   },
   "history": [
-    {
-      "t": 1794610145,
-      "up": 219816,
-      "result": "sent",
-      "code": 200,
-      "rat": "WiFi",
-      "rssi": -62,
-      "streak": 0
-    },
-    {
-      "t": 1794610465,
-      "up": 220136,
-      "result": "sent",
-      "code": 200,
-      "rat": "WiFi",
-      "rssi": -62,
-      "streak": 0
-    },
-    {
-      "t": 1794610786,
-      "up": 220457,
-      "result": "sent",
-      "code": 200,
-      "rat": "WiFi",
-      "rssi": -62,
-      "streak": 0
-    },
-    {
-      "t": 1794611105,
-      "up": 220776,
-      "result": "sent",
-      "code": 200,
-      "rat": "WiFi",
-      "rssi": -62,
-      "streak": 0
-    },
-    {
-      "t": 1794611425,
-      "up": 221096,
-      "result": "sent",
-      "code": 200,
-      "rat": "WiFi",
-      "rssi": -62,
-      "streak": 0
-    },
-    {
-      "t": 1794611745,
-      "up": 221416,
-      "result": "sent",
-      "code": 200,
-      "rat": "WiFi",
-      "rssi": -61,
-      "streak": 0
-    },
-    {
-      "t": 1794612065,
-      "up": 221736,
-      "result": "sent",
-      "code": 200,
-      "rat": "WiFi",
-      "rssi": -62,
-      "streak": 0
-    },
-    {
-      "t": 1794612385,
-      "up": 222057,
-      "result": "sent",
-      "code": 200,
-      "rat": "WiFi",
-      "rssi": -62,
-      "streak": 0
-    },
-    {
-      "t": 1794612706,
-      "up": 222378,
-      "result": "sent",
-      "code": 200,
-      "rat": "WiFi",
-      "rssi": -62,
-      "streak": 0
-    },
-    {
-      "t": 1794613025,
-      "up": 222696,
-      "result": "sent",
-      "code": 200,
-      "rat": "WiFi",
-      "rssi": -62,
-      "streak": 0
-    },
-    {
-      "t": 1794613345,
-      "up": 223016,
-      "result": "sent",
-      "code": 200,
-      "rat": "WiFi",
-      "rssi": -62,
-      "streak": 0
-    },
-    {
-      "t": 1794613665,
-      "up": 223336,
-      "result": "sent",
-      "code": 200,
-      "rat": "WiFi",
-      "rssi": -62,
-      "streak": 0
-    },
     {
       "t": 1794613985,
       "up": 223657,
@@ -244,7 +136,115 @@
       "rat": "WiFi",
       "rssi": -62,
       "streak": 0
+    },
+    {
+      "t": 1794617825,
+      "up": 227497,
+      "result": "sent",
+      "code": 200,
+      "rat": "WiFi",
+      "rssi": -63,
+      "streak": 0
+    },
+    {
+      "t": 1794618146,
+      "up": 227817,
+      "result": "sent",
+      "code": 200,
+      "rat": "WiFi",
+      "rssi": -62,
+      "streak": 0
+    },
+    {
+      "t": 1794618467,
+      "up": 228139,
+      "result": "sent",
+      "code": 200,
+      "rat": "WiFi",
+      "rssi": -62,
+      "streak": 0
+    },
+    {
+      "t": 1794618786,
+      "up": 228457,
+      "result": "sent",
+      "code": 200,
+      "rat": "WiFi",
+      "rssi": -62,
+      "streak": 0
+    },
+    {
+      "t": 1794619105,
+      "up": 228777,
+      "result": "sent",
+      "code": 200,
+      "rat": "WiFi",
+      "rssi": -63,
+      "streak": 0
+    },
+    {
+      "t": 1794619425,
+      "up": 229097,
+      "result": "sent",
+      "code": 200,
+      "rat": "WiFi",
+      "rssi": -63,
+      "streak": 0
+    },
+    {
+      "t": 1794619746,
+      "up": 229417,
+      "result": "sent",
+      "code": 200,
+      "rat": "WiFi",
+      "rssi": -62,
+      "streak": 0
+    },
+    {
+      "t": 1794620066,
+      "up": 229737,
+      "result": "sent",
+      "code": 200,
+      "rat": "WiFi",
+      "rssi": -62,
+      "streak": 0
+    },
+    {
+      "t": 1794620387,
+      "up": 230058,
+      "result": "sent",
+      "code": 200,
+      "rat": "WiFi",
+      "rssi": -62,
+      "streak": 0
+    },
+    {
+      "t": 1794620706,
+      "up": 230377,
+      "result": "sent",
+      "code": 200,
+      "rat": "WiFi",
+      "rssi": -62,
+      "streak": 0
+    },
+    {
+      "t": 1794621026,
+      "up": 230697,
+      "result": "sent",
+      "code": 200,
+      "rat": "WiFi",
+      "rssi": -63,
+      "streak": 0
+    },
+    {
+      "t": 1794621346,
+      "up": 231017,
+      "result": "sent",
+      "code": 200,
+      "rat": "WiFi",
+      "rssi": -62,
+      "streak": 0
     }
   ],
-  "received_at": "2026-11-14T00:51:46.824Z"
+  "received_at": "2026-11-14T01:55:47.132Z"
 }
