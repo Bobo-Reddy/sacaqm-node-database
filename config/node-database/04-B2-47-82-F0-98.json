@@ -8,7 +8,7 @@
     "lon": 28.052197
   },
   "provisioning": {
-    "last_provisioned": "2026-11-18T16:42:09.316Z",
+    "last_provisioned": "2026-11-18T16:42:12.483Z",
     "method": "ble",
     "running_fw": "v1.3.2",
     "carrier": "lte"
@@ -33,16 +33,16 @@
   },
   "status": {
     "fw": "v1.3.2",
-    "reset_reason": "power on",
-    "uptime_s": 94,
-    "node_time": 1795020058,
+    "reset_reason": "software restart",
+    "uptime_s": 41,
+    "node_time": 1795020130,
     "uploads_ok": 0,
     "sampling_rate": 320,
     "fail_streak": 0,
     "recoveries": 0,
-    "free_heap": 23120,
+    "free_heap": 23168,
     "boot": {
-      "sensor": "full reset"
+      "sensor": "learning kept"
     },
     "config_read": {
       "ok": false,
@@ -55,12 +55,12 @@
     "cell": {
       "rat": "LTE",
       "plmn": "655-01",
-      "band": 8,
-      "cell": 53936918,
-      "rsrp": -87,
-      "rsrq": -13,
-      "sinr": 13
+      "band": 3,
+      "cell": 53936916,
+      "rsrp": -94,
+      "rsrq": -17,
+      "sinr": 10
     },
-    "received_at": "2026-11-18T16:41:00.439Z"
+    "received_at": "2026-11-18T16:42:12.483Z"
   }
 }
