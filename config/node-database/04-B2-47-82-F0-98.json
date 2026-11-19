@@ -12,7 +12,7 @@
     "lon": 28.052207
   },
   "provisioning": {
-    "last_provisioned": "2026-11-19T10:17:59.074Z",
+    "last_provisioned": "2026-11-19T10:18:14.460Z",
     "method": "ble",
     "running_fw": "v1.3.2",
     "carrier": "wifi"
@@ -37,16 +37,16 @@
   },
   "status": {
     "fw": "v1.3.2",
-    "reset_reason": "power on",
-    "uptime_s": 86,
-    "node_time": 1795083061,
+    "reset_reason": "software restart",
+    "uptime_s": 200,
+    "node_time": 1795083492,
     "uploads_ok": 0,
     "sampling_rate": 320,
     "fail_streak": 0,
     "recoveries": 0,
-    "free_heap": 147632,
+    "free_heap": 148036,
     "boot": {
-      "sensor": "full reset"
+      "sensor": "learning kept"
     },
     "config_read": {
       "ok": false,
@@ -56,7 +56,7 @@
     "sensor": {
       "present": true
     },
-    "wifi_rssi": -23,
-    "received_at": "2026-11-19T10:11:01.997Z"
+    "wifi_rssi": -21,
+    "received_at": "2026-11-19T10:18:14.460Z"
   }
 }
