@@ -35,7 +35,7 @@
     "fw": "v1.3.2",
     "reset_reason": "software restart",
     "uptime_s": 34,
-    "node_time": 1795077969,
+    "node_time": 1795078278,
     "uploads_ok": 0,
     "sampling_rate": 320,
     "fail_streak": 0,
@@ -45,7 +45,7 @@
       "sensor": "learning kept"
     },
     "config_read": {
-      "at": 1795077969,
+      "at": 1795078278,
       "ok": true,
       "http": 200,
       "via": "worker"
@@ -59,10 +59,10 @@
       "band": 41,
       "cell": 53937022,
       "rsrp": -107,
-      "rsrq": -11,
-      "sinr": 13
+      "rsrq": -10,
+      "sinr": 14
     },
-    "received_at": "2026-11-19T08:46:10.858Z"
+    "received_at": "2026-11-19T08:51:20.096Z"
   },
   "wifi": {
     "ssid": "B535_2B0D",
@@ -79,6 +79,6 @@
     "version": "v1.3.3",
     "result": "installed",
     "detail": "replacing v1.3.2",
-    "at": 1795077933
+    "at": 1795078242
   }
 }
