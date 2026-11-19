@@ -137,9 +137,9 @@
     "stored_m": 1751,
     "confirmed": true,
     "applied_m": 1751,
-    "set_m": 1751,
+    "set_m": 0,
     "source": "the node’s stored position",
-    "requested_at": "2026-11-19T09:31:22.556Z"
+    "requested_at": "2026-11-19T09:38:26.407Z"
   },
   "sensor": {
     "temp_offset_c": 0
@@ -194,7 +194,7 @@
     "at": 1795079880
   },
   "developer": {
-    "last_change": "2026-11-19T09:38:19.315Z"
+    "last_change": "2026-11-19T09:38:26.468Z"
   },
   "sampling_rate": 320,
   "dev_note": "heyo"
