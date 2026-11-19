@@ -33,19 +33,19 @@
   },
   "status": {
     "fw": "v1.3.2",
-    "reset_reason": "power on",
+    "reset_reason": "software restart",
     "uptime_s": 34,
-    "node_time": 1795076354,
+    "node_time": 1795076675,
     "uploads_ok": 0,
     "sampling_rate": 320,
     "fail_streak": 0,
     "recoveries": 0,
-    "free_heap": 190088,
+    "free_heap": 190152,
     "boot": {
-      "sensor": "full reset"
+      "sensor": "learning kept"
     },
     "config_read": {
-      "at": 1795076354,
+      "at": 1795076675,
       "ok": true,
       "http": 200,
       "via": "worker"
@@ -58,11 +58,11 @@
       "plmn": "655-01",
       "band": 3,
       "cell": 234748929,
-      "rsrp": -91,
-      "rsrq": -9,
-      "sinr": 12
+      "rsrp": -92,
+      "rsrq": -11,
+      "sinr": 14
     },
-    "received_at": "2026-11-19T08:19:16.228Z"
+    "received_at": "2026-11-19T08:24:37.146Z"
   },
   "wifi": {
     "ssid": "B535_2B0D",
@@ -74,5 +74,11 @@
   "firmware_allow_downgrade": false,
   "developer": {
     "last_change": "2026-11-19T08:18:25.223Z"
+  },
+  "last_ota": {
+    "version": "v1.3.3",
+    "result": "installed",
+    "detail": "replacing v1.3.2",
+    "at": 1795076639
   }
 }
