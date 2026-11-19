@@ -16,7 +16,8 @@
   "lte": {
     "lock_state": "auto",
     "bands_applied": "auto",
-    "rat_applied": "auto"
+    "rat_applied": "auto",
+    "survey_id": "mwncbkzlygpr"
   },
   "altitude": {
     "stored_m": 0,
@@ -68,5 +69,8 @@
     "result": "installed",
     "detail": "replacing v1.3.2",
     "at": 1795079880
+  },
+  "developer": {
+    "last_change": "2026-11-19T09:21:02.800Z"
   }
 }
