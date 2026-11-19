@@ -17,7 +17,110 @@
     "lock_state": "auto",
     "bands_applied": "auto",
     "rat_applied": "auto",
-    "survey_id": "mwncbkzlygpr"
+    "survey_id": "mwncbkzlygpr",
+    "survey_id_done": "mwncbkzlygpr",
+    "survey_suggest": "38,8",
+    "survey": {
+      "id": "mwncbkzlygpr",
+      "started": 1795080357,
+      "bands": [
+        {
+          "band": 1,
+          "reg_s": 3,
+          "plmn": "655-01",
+          "cell": 53936917,
+          "pci": 296,
+          "rsrp": -106,
+          "rsrq": -12,
+          "sinr": 8,
+          "http": 200,
+          "score": -14,
+          "result": "data ok"
+        },
+        {
+          "band": 3,
+          "reg_s": 3,
+          "plmn": "655-01",
+          "cell": 234748929,
+          "pci": 348,
+          "rsrp": -90,
+          "rsrq": -13,
+          "sinr": 12,
+          "http": 200,
+          "score": 8,
+          "result": "data ok"
+        },
+        {
+          "band": 7,
+          "result": "no service"
+        },
+        {
+          "band": 8,
+          "reg_s": 3,
+          "plmn": "655-01",
+          "cell": 53936918,
+          "pci": 395,
+          "rsrp": -84,
+          "rsrq": -12,
+          "sinr": 14,
+          "http": 200,
+          "score": 20,
+          "result": "data ok"
+        },
+        {
+          "band": 20,
+          "result": "no service"
+        },
+        {
+          "band": 28,
+          "reg_s": 3,
+          "plmn": "655-01",
+          "cell": 57989413,
+          "pci": 249,
+          "rsrp": -87,
+          "rsrq": -11,
+          "sinr": 10,
+          "http": 200,
+          "score": 11,
+          "result": "data ok"
+        },
+        {
+          "band": 38,
+          "reg_s": 3,
+          "plmn": "655-01",
+          "cell": 234748962,
+          "pci": 348,
+          "rsrp": -90,
+          "rsrq": -13,
+          "sinr": 21,
+          "http": 200,
+          "score": 26,
+          "result": "data ok"
+        },
+        {
+          "band": 40,
+          "result": "no service"
+        },
+        {
+          "band": 41,
+          "reg_s": 3,
+          "plmn": "655-01",
+          "cell": 234748962,
+          "pci": 348,
+          "rsrp": -95,
+          "rsrq": -12,
+          "sinr": 19,
+          "http": 200,
+          "score": 19,
+          "result": "data ok"
+        }
+      ],
+      "suggest": [
+        38,
+        8
+      ],
+      "finished": 1795080572
+    }
   },
   "altitude": {
     "stored_m": 0,
@@ -35,16 +138,17 @@
   "status": {
     "fw": "v1.3.2",
     "reset_reason": "power on",
-    "uptime_s": 34,
-    "node_time": 1795080145,
-    "uploads_ok": 0,
+    "uptime_s": 462,
+    "node_time": 1795080574,
+    "uploads_ok": 1,
     "sampling_rate": 320,
     "fail_streak": 0,
     "recoveries": 0,
-    "free_heap": 190152,
+    "free_heap": 189616,
     "boot": {
       "sensor": "full reset"
     },
+    "last_upload_at": 1795080357,
     "config_read": {
       "at": 1795080145,
       "ok": true,
@@ -52,18 +156,20 @@
       "via": "worker"
     },
     "sensor": {
-      "present": true
+      "present": true,
+      "status": "0x00000000",
+      "problems": ""
     },
     "cell": {
       "rat": "LTE",
       "plmn": "655-01",
-      "band": 3,
-      "cell": 234748929,
-      "rsrp": -95,
-      "rsrq": -11,
-      "sinr": 12
+      "band": 28,
+      "cell": 53936923,
+      "rsrp": -83,
+      "rsrq": -9,
+      "sinr": 15
     },
-    "received_at": "2026-11-19T09:22:27.602Z"
+    "received_at": "2026-11-19T09:29:36.590Z"
   },
   "last_ota": {
     "version": "v1.3.3",
