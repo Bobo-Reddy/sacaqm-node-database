@@ -66,5 +66,12 @@
   "wifi": {
     "ssid": "B535_2B0D",
     "username": ""
+  },
+  "firmware_version": "v1.3.3",
+  "firmware_size": 1992896,
+  "firmware_md5": "3a6c4bc8230e9cf9c568b8a46facfa43",
+  "firmware_allow_downgrade": false,
+  "developer": {
+    "last_change": "2026-11-19T08:18:25.223Z"
   }
 }
