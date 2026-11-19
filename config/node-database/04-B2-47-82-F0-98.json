@@ -8,7 +8,59 @@
     "lon": 28.052247
   },
   "provisioning": {
-    "last_provisioned": "2026-11-19T07:30:16.584Z",
-    "method": "ble"
+    "last_provisioned": "2026-11-19T07:30:19.472Z",
+    "method": "ble",
+    "running_fw": "v1.3.2",
+    "carrier": "lte"
+  },
+  "lte": {
+    "lock_state": "auto",
+    "bands_applied": "auto",
+    "rat_applied": "auto"
+  },
+  "altitude": {
+    "stored_m": 0,
+    "confirmed": true,
+    "applied_m": 0
+  },
+  "sensor": {
+    "temp_offset_c": 0
+  },
+  "co2_asc": {
+    "stored": true,
+    "confirmed": true,
+    "applied": true
+  },
+  "status": {
+    "fw": "v1.3.2",
+    "reset_reason": "power on",
+    "uptime_s": 68,
+    "node_time": 1795073417,
+    "uploads_ok": 0,
+    "sampling_rate": 320,
+    "fail_streak": 0,
+    "recoveries": 0,
+    "free_heap": 23448,
+    "boot": {
+      "sensor": "full reset"
+    },
+    "config_read": {
+      "ok": false,
+      "http": 0,
+      "via": ""
+    },
+    "sensor": {
+      "present": true
+    },
+    "cell": {
+      "rat": "LTE",
+      "plmn": "655-01",
+      "band": 41,
+      "cell": 53937022,
+      "rsrp": -104,
+      "rsrq": -9,
+      "sinr": 14
+    },
+    "received_at": "2026-11-19T07:30:19.472Z"
   }
 }
