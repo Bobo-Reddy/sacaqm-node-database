@@ -14,8 +14,8 @@
     "carrier": "lte"
   },
   "lte": {
-    "lock_state": "auto",
-    "bands_applied": "auto",
+    "lock_state": "applied",
+    "bands_applied": "8,38",
     "rat_applied": "auto",
     "survey_id": "mwncbkzlygpr",
     "survey_id_done": "mwncbkzlygpr",
@@ -126,12 +126,20 @@
       38
     ],
     "rat": "auto",
-    "lock_id": "mwncp519hljp"
+    "lock_id": "mwncp519hljp",
+    "lock_id_applied": "mwncp519hljp",
+    "lock_event": {
+      "event": "applied",
+      "bands": "8,38",
+      "rat": "auto",
+      "up": 39,
+      "at": 1795080752
+    }
   },
   "altitude": {
-    "stored_m": 0,
+    "stored_m": 1751,
     "confirmed": true,
-    "applied_m": 0,
+    "applied_m": 1751,
     "set_m": 1751,
     "source": "the node’s stored position",
     "requested_at": "2026-11-19T09:31:22.556Z"
@@ -140,34 +148,28 @@
     "temp_offset_c": 0
   },
   "co2_asc": {
-    "stored": true,
+    "stored": false,
     "confirmed": true,
-    "applied": true,
+    "applied": false,
     "set_enabled": false,
     "requested_at": "2026-11-19T09:31:28.863Z"
   },
   "status": {
     "fw": "v1.3.2",
     "reset_reason": "power on",
-    "uptime_s": 566,
-    "node_time": 1795080677,
-    "uploads_ok": 2,
-    "sampling_rate": 320,
+    "uptime_s": 273,
+    "node_time": 1795080986,
+    "uploads_ok": 1,
+    "sampling_rate": 600,
     "fail_streak": 0,
     "recoveries": 0,
-    "free_heap": 189596,
+    "free_heap": 189352,
     "boot": {
-      "sensor": "full reset",
-      "voc": "no recent learning saved, learning afresh"
+      "sensor": "full reset"
     },
-    "gaps": {
-      "count": 1,
-      "min_s": 320,
-      "max_s": 320
-    },
-    "last_upload_at": 1795080677,
+    "last_upload_at": 1795080985,
     "config_read": {
-      "at": 1795080145,
+      "at": 1795080746,
       "ok": true,
       "http": 200,
       "via": "worker"
@@ -180,13 +182,13 @@
     "cell": {
       "rat": "LTE",
       "plmn": "655-01",
-      "band": 3,
-      "cell": 53936916,
-      "rsrp": -96,
-      "rsrq": -17,
-      "sinr": 13
+      "band": 8,
+      "cell": 53936918,
+      "rsrp": -86,
+      "rsrq": -12,
+      "sinr": 15
     },
-    "received_at": "2026-11-19T09:31:19.840Z"
+    "received_at": "2026-11-19T09:36:28.196Z"
   },
   "last_ota": {
     "version": "v1.3.3",
