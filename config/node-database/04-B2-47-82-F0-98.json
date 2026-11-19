@@ -36,18 +36,18 @@
   "status": {
     "fw": "v1.3.2",
     "reset_reason": "software restart",
-    "uptime_s": 35,
-    "node_time": 1795079798,
+    "uptime_s": 34,
+    "node_time": 1795079858,
     "uploads_ok": 0,
     "sampling_rate": 320,
     "fail_streak": 0,
     "recoveries": 0,
-    "free_heap": 143228,
+    "free_heap": 143244,
     "boot": {
       "sensor": "learning kept"
     },
     "config_read": {
-      "at": 1795079798,
+      "at": 1795079858,
       "ok": true,
       "http": 200,
       "via": "worker"
@@ -55,8 +55,8 @@
     "sensor": {
       "present": true
     },
-    "wifi_rssi": -27,
-    "received_at": "2026-11-19T09:16:39.669Z"
+    "wifi_rssi": -26,
+    "received_at": "2026-11-19T09:17:39.830Z"
   },
   "firmware_version": "v1.3.3",
   "firmware_size": 1992896,
@@ -69,6 +69,6 @@
     "version": "v1.3.3",
     "result": "installed",
     "detail": "replacing v1.3.2",
-    "at": 1795079761
+    "at": 1795079821
   }
 }
