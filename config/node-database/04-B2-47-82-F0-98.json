@@ -8,7 +8,59 @@
     "lon": 28.052207
   },
   "provisioning": {
-    "last_provisioned": "2026-11-19T10:35:57.398Z",
-    "method": "ble"
+    "last_provisioned": "2026-11-19T10:36:00.767Z",
+    "method": "ble",
+    "running_fw": "v1.3.2",
+    "carrier": "lte"
+  },
+  "lte": {
+    "lock_state": "auto",
+    "bands_applied": "auto",
+    "rat_applied": "auto",
+    "survey_id_done": "mwncbkzlygpr",
+    "survey_suggest": "38,8"
+  },
+  "altitude": {
+    "stored_m": 0,
+    "confirmed": false
+  },
+  "sensor": {
+    "temp_offset_c": 0
+  },
+  "co2_asc": {
+    "stored": true,
+    "confirmed": false
+  },
+  "status": {
+    "fw": "v1.3.2",
+    "reset_reason": "power on",
+    "uptime_s": 52,
+    "node_time": 1795084558,
+    "uploads_ok": 0,
+    "sampling_rate": 320,
+    "fail_streak": 0,
+    "recoveries": 0,
+    "free_heap": 23120,
+    "boot": {
+      "sensor": "not found"
+    },
+    "config_read": {
+      "ok": false,
+      "http": 0,
+      "via": ""
+    },
+    "sensor": {
+      "present": false
+    },
+    "cell": {
+      "rat": "LTE",
+      "plmn": "655-01",
+      "band": 3,
+      "cell": 53936916,
+      "rsrp": -99,
+      "rsrq": -14,
+      "sinr": 9
+    },
+    "received_at": "2026-11-19T10:36:00.767Z"
   }
 }
