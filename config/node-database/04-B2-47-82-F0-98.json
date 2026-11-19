@@ -121,12 +121,9 @@
       ],
       "finished": 1795080572
     },
-    "bands": [
-      8,
-      38
-    ],
+    "bands": "auto",
     "rat": "auto",
-    "lock_id": "mwncp519hljp",
+    "lock_id": "mwncxjkapjiq",
     "lock_id_applied": "mwncp519hljp",
     "lock_event": {
       "event": "applied",
@@ -197,7 +194,7 @@
     "at": 1795079880
   },
   "developer": {
-    "last_change": "2026-11-19T09:37:26.028Z"
+    "last_change": "2026-11-19T09:38:07.383Z"
   },
   "sampling_rate": 600,
   "dev_note": "heyo"
