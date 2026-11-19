@@ -73,7 +73,7 @@
   "firmware_md5": "3a6c4bc8230e9cf9c568b8a46facfa43",
   "firmware_allow_downgrade": false,
   "developer": {
-    "last_change": "2026-11-19T08:18:25.223Z"
+    "last_change": "2026-11-19T08:54:45.901Z"
   },
   "last_ota": {
     "version": "v1.3.3",
