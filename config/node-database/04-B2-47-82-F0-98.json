@@ -194,8 +194,8 @@
     "at": 1795079880
   },
   "developer": {
-    "last_change": "2026-11-19T09:38:07.383Z"
+    "last_change": "2026-11-19T09:38:15.601Z"
   },
-  "sampling_rate": 600,
+  "sampling_rate": 320,
   "dev_note": "heyo"
 }
