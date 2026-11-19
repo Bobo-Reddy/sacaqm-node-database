@@ -148,8 +148,8 @@
     "stored": false,
     "confirmed": true,
     "applied": false,
-    "set_enabled": false,
-    "requested_at": "2026-11-19T09:31:28.863Z"
+    "set_enabled": true,
+    "requested_at": "2026-11-19T09:38:19.271Z"
   },
   "status": {
     "fw": "v1.3.2",
@@ -194,7 +194,7 @@
     "at": 1795079880
   },
   "developer": {
-    "last_change": "2026-11-19T09:38:15.601Z"
+    "last_change": "2026-11-19T09:38:19.315Z"
   },
   "sampling_rate": 320,
   "dev_note": "heyo"
