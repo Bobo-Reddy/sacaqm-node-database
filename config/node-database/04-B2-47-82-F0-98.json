@@ -120,7 +120,13 @@
         8
       ],
       "finished": 1795080572
-    }
+    },
+    "bands": [
+      8,
+      38
+    ],
+    "rat": "auto",
+    "lock_id": "mwncp519hljp"
   },
   "altitude": {
     "stored_m": 0,
@@ -189,7 +195,7 @@
     "at": 1795079880
   },
   "developer": {
-    "last_change": "2026-11-19T09:31:32.481Z"
+    "last_change": "2026-11-19T09:31:35.275Z"
   },
   "sampling_rate": 600
 }
