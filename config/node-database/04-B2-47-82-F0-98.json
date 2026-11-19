@@ -33,21 +33,22 @@
   },
   "status": {
     "fw": "v1.3.2",
-    "reset_reason": "software restart",
-    "uptime_s": 136,
-    "node_time": 1795075750,
+    "reset_reason": "power on",
+    "uptime_s": 34,
+    "node_time": 1795076354,
     "uploads_ok": 0,
     "sampling_rate": 320,
     "fail_streak": 0,
     "recoveries": 0,
-    "free_heap": 23408,
+    "free_heap": 190088,
     "boot": {
-      "sensor": "learning kept"
+      "sensor": "full reset"
     },
     "config_read": {
-      "ok": false,
-      "http": 0,
-      "via": ""
+      "at": 1795076354,
+      "ok": true,
+      "http": 200,
+      "via": "worker"
     },
     "sensor": {
       "present": true
@@ -55,13 +56,13 @@
     "cell": {
       "rat": "LTE",
       "plmn": "655-01",
-      "band": 41,
-      "cell": 53937022,
-      "rsrp": -106,
-      "rsrq": -8,
-      "sinr": 13
+      "band": 3,
+      "cell": 234748929,
+      "rsrp": -91,
+      "rsrq": -9,
+      "sinr": 12
     },
-    "received_at": "2026-11-19T08:09:11.943Z"
+    "received_at": "2026-11-19T08:19:16.228Z"
   },
   "wifi": {
     "ssid": "B535_2B0D",
