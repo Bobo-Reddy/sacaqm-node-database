@@ -34,26 +34,36 @@
   "status": {
     "fw": "v1.3.2",
     "reset_reason": "power on",
-    "uptime_s": 171,
-    "node_time": 1795075127,
-    "uploads_ok": 0,
+    "uptime_s": 499,
+    "node_time": 1795075455,
+    "uploads_ok": 2,
     "sampling_rate": 320,
     "fail_streak": 0,
     "recoveries": 0,
-    "free_heap": 144704,
+    "free_heap": 146248,
     "boot": {
-      "sensor": "full reset"
+      "sensor": "full reset",
+      "voc": "no recent learning saved, learning afresh"
     },
+    "gaps": {
+      "count": 1,
+      "min_s": 320,
+      "max_s": 320
+    },
+    "last_upload_at": 1795075455,
     "config_read": {
-      "ok": false,
-      "http": 0,
-      "via": ""
+      "at": 1795075131,
+      "ok": true,
+      "http": 200,
+      "via": "worker"
     },
     "sensor": {
-      "present": true
+      "present": true,
+      "status": "0x00000000",
+      "problems": ""
     },
-    "wifi_rssi": -20,
-    "received_at": "2026-11-19T07:58:48.689Z"
+    "wifi_rssi": -45,
+    "received_at": "2026-11-19T08:04:16.709Z"
   },
   "wifi": {
     "ssid": "B535_2B0D",
