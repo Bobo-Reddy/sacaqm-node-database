@@ -14,8 +14,8 @@
     "carrier": "lte"
   },
   "lte": {
-    "lock_state": "applied",
-    "bands_applied": "8,38",
+    "lock_state": "auto",
+    "bands_applied": "auto",
     "rat_applied": "auto",
     "survey_id": "mwncbkzlygpr",
     "survey_id_done": "mwncbkzlygpr",
@@ -124,19 +124,19 @@
     "bands": "auto",
     "rat": "auto",
     "lock_id": "mwncxjkapjiq",
-    "lock_id_applied": "mwncp519hljp",
+    "lock_id_applied": "mwncxjkapjiq",
     "lock_event": {
-      "event": "applied",
-      "bands": "8,38",
+      "event": "restored automatic",
+      "bands": "auto",
       "rat": "auto",
       "up": 39,
-      "at": 1795080752
+      "at": 1795081229
     }
   },
   "altitude": {
-    "stored_m": 1751,
+    "stored_m": 0,
     "confirmed": true,
-    "applied_m": 1751,
+    "applied_m": 0,
     "set_m": 0,
     "source": "the node’s stored position",
     "requested_at": "2026-11-19T09:38:26.407Z"
@@ -145,28 +145,28 @@
     "temp_offset_c": 0
   },
   "co2_asc": {
-    "stored": false,
+    "stored": true,
     "confirmed": true,
-    "applied": false,
+    "applied": true,
     "set_enabled": true,
     "requested_at": "2026-11-19T09:38:19.271Z"
   },
   "status": {
     "fw": "v1.3.2",
     "reset_reason": "power on",
-    "uptime_s": 273,
-    "node_time": 1795080986,
+    "uptime_s": 104,
+    "node_time": 1795081293,
     "uploads_ok": 1,
-    "sampling_rate": 600,
+    "sampling_rate": 320,
     "fail_streak": 0,
     "recoveries": 0,
-    "free_heap": 189352,
+    "free_heap": 189420,
     "boot": {
       "sensor": "full reset"
     },
-    "last_upload_at": 1795080985,
+    "last_upload_at": 1795081293,
     "config_read": {
-      "at": 1795080746,
+      "at": 1795081223,
       "ok": true,
       "http": 200,
       "via": "worker"
@@ -179,13 +179,13 @@
     "cell": {
       "rat": "LTE",
       "plmn": "655-01",
-      "band": 8,
-      "cell": 53936918,
-      "rsrp": -86,
-      "rsrq": -12,
-      "sinr": 15
+      "band": 3,
+      "cell": 53936916,
+      "rsrp": -100,
+      "rsrq": -13,
+      "sinr": 7
     },
-    "received_at": "2026-11-19T09:36:28.196Z"
+    "received_at": "2026-11-19T09:41:36.917Z"
   },
   "last_ota": {
     "version": "v1.3.3",
