@@ -19,7 +19,7 @@
     "rat_applied": "lte",
     "survey_id": "mw3j4cr101zb",
     "survey_id_done": "mw3j4cr101zb",
-    "survey_suggest": "",
+    "survey_suggest": "8,28",
     "bands": [
       8,
       28
@@ -33,6 +33,89 @@
       "rat": "lte",
       "up": 58,
       "at": 1795188412
+    },
+    "survey": {
+      "id": "mw3j4cr101zb",
+      "started": 1795188419,
+      "bands": [
+        {
+          "band": 1,
+          "reg_s": 3,
+          "plmn": "655-01",
+          "cell": 59607317,
+          "pci": 437,
+          "rsrp": -106,
+          "rsrq": -10,
+          "sinr": 18,
+          "http": 200,
+          "score": 10,
+          "result": "data ok"
+        },
+        {
+          "band": 3,
+          "reg_s": 3,
+          "plmn": "655-01",
+          "cell": 59607316,
+          "pci": 299,
+          "rsrp": -96,
+          "rsrq": -10,
+          "sinr": 14,
+          "http": 200,
+          "score": 12,
+          "result": "data ok"
+        },
+        {
+          "band": 7,
+          "result": "no service"
+        },
+        {
+          "band": 8,
+          "reg_s": 3,
+          "plmn": "655-01",
+          "cell": 59607377,
+          "pci": 299,
+          "rsrp": -87,
+          "rsrq": -6,
+          "sinr": 20,
+          "http": 200,
+          "score": 41,
+          "result": "data ok"
+        },
+        {
+          "band": 20,
+          "result": "no service"
+        },
+        {
+          "band": 28,
+          "reg_s": 3,
+          "plmn": "655-01",
+          "cell": 59607323,
+          "pci": 32,
+          "rsrp": -85,
+          "rsrq": -6,
+          "sinr": 19,
+          "http": 200,
+          "score": 41,
+          "result": "data ok"
+        },
+        {
+          "band": 38,
+          "result": "no service"
+        },
+        {
+          "band": 40,
+          "result": "no service"
+        },
+        {
+          "band": 41,
+          "result": "no service"
+        }
+      ],
+      "suggest": [
+        8,
+        28
+      ],
+      "finished": 1795188747
     }
   },
   "altitude": {
@@ -61,13 +144,13 @@
   "status": {
     "fw": "v1.3.2",
     "reset_reason": "power on",
-    "uptime_s": 62,
-    "node_time": 1795188416,
+    "uptime_s": 394,
+    "node_time": 1795188748,
     "uploads_ok": 1,
     "sampling_rate": 320,
     "fail_streak": 0,
     "recoveries": 0,
-    "free_heap": 23304,
+    "free_heap": 26460,
     "boot": {
       "sensor": "full reset"
     },
@@ -86,12 +169,12 @@
     "cell": {
       "rat": "LTE",
       "plmn": "655-01",
-      "band": 8,
-      "cell": 59607377,
+      "band": 28,
+      "cell": 59607323,
       "rsrp": -86,
-      "rsrq": -7,
-      "sinr": 20
+      "rsrq": -6,
+      "sinr": 19
     },
-    "received_at": "2026-11-20T15:26:59.087Z"
+    "received_at": "2026-11-20T15:32:31.248Z"
   }
 }
