@@ -1,0 +1,14 @@
+{
+  "mac": "04:B2:47:82:4D:38",
+  "description": "LTE 1/9",
+  "indoor_outdoor": "1",
+  "link": "lte",
+  "gps": {
+    "lat": -26.191524,
+    "lon": 28.031167
+  },
+  "provisioning": {
+    "last_provisioned": "2026-11-20T15:13:49.946Z",
+    "method": "ble"
+  }
+}
