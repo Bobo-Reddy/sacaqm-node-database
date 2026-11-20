@@ -14,9 +14,9 @@
     "carrier": "lte"
   },
   "lte": {
-    "lock_state": "auto",
-    "bands_applied": "auto",
-    "rat_applied": "auto",
+    "lock_state": "applied",
+    "bands_applied": "8,28",
+    "rat_applied": "lte",
     "survey_id": "mw3j4cr101zb",
     "survey_id_done": "mw3j4cr101zb",
     "survey_suggest": "",
@@ -26,7 +26,14 @@
     ],
     "rat": "lte",
     "lock_id": "mw3jfaa6jxkz",
-    "lock_id_applied": "mw3jfaa6jxkz"
+    "lock_id_applied": "mw3jfaa6jxkz",
+    "lock_event": {
+      "event": "applied",
+      "bands": "8,28",
+      "rat": "lte",
+      "up": 58,
+      "at": 1795188412
+    }
   },
   "altitude": {
     "stored_m": 0,
@@ -54,23 +61,27 @@
   "status": {
     "fw": "v1.3.2",
     "reset_reason": "power on",
-    "uptime_s": 53,
-    "node_time": 1795188407,
-    "uploads_ok": 0,
+    "uptime_s": 62,
+    "node_time": 1795188416,
+    "uploads_ok": 1,
     "sampling_rate": 320,
     "fail_streak": 0,
     "recoveries": 0,
-    "free_heap": 23376,
+    "free_heap": 23304,
     "boot": {
       "sensor": "full reset"
     },
+    "last_upload_at": 1795188416,
     "config_read": {
-      "ok": false,
-      "http": 0,
-      "via": ""
+      "at": 1795188411,
+      "ok": true,
+      "http": 200,
+      "via": "worker"
     },
     "sensor": {
-      "present": true
+      "present": true,
+      "status": "0x00000000",
+      "problems": ""
     },
     "cell": {
       "rat": "LTE",
@@ -79,8 +90,8 @@
       "cell": 59607377,
       "rsrp": -86,
       "rsrq": -7,
-      "sinr": 15
+      "sinr": 20
     },
-    "received_at": "2026-11-20T15:26:49.762Z"
+    "received_at": "2026-11-20T15:26:59.087Z"
   }
 }
