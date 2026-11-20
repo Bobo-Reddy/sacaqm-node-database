@@ -23,9 +23,9 @@
     "rat_applied": "auto"
   },
   "altitude": {
-    "stored_m": 0,
+    "stored_m": 1756,
     "confirmed": true,
-    "applied_m": 0,
+    "applied_m": 1756,
     "set_m": 1756,
     "source": "the node’s stored position",
     "requested_at": "2026-11-09T10:32:12.999Z"
@@ -44,8 +44,8 @@
   "status": {
     "fw": "v1.3.2",
     "reset_reason": "power on",
-    "uptime_s": 49,
-    "node_time": 1795188519,
+    "uptime_s": 56,
+    "node_time": 1795188526,
     "uploads_ok": 0,
     "sampling_rate": 320,
     "fail_streak": 0,
@@ -55,9 +55,10 @@
       "sensor": "full reset"
     },
     "config_read": {
-      "ok": false,
-      "http": 0,
-      "via": ""
+      "at": 1795188523,
+      "ok": true,
+      "http": 200,
+      "via": "worker"
     },
     "sensor": {
       "present": true
@@ -68,9 +69,9 @@
       "band": 3,
       "cell": 59607316,
       "rsrp": -95,
-      "rsrq": -8,
-      "sinr": 17
+      "rsrq": -9,
+      "sinr": 20
     },
-    "received_at": "2026-11-20T15:28:41.164Z"
+    "received_at": "2026-11-20T15:28:47.952Z"
   }
 }
