@@ -1,18 +1,18 @@
 {
   "mac": "B4:BF:E9:C9:F8:70",
-  "description": "Mamba Cement",
+  "description": "LTE 2/9",
   "indoor_outdoor": "1",
-  "link": "wifi",
+  "link": "lte",
   "wifi": {
     "ssid": "Mamba_Corp"
   },
   "gps": {
-    "lat": -24.985616,
-    "lon": 27.546029
+    "lat": -26.191524,
+    "lon": 28.031167
   },
   "provisioning": {
-    "last_provisioned": "2026-10-27T13:50:43.578Z",
-    "method": "node",
+    "last_provisioned": "2026-11-20T15:17:02.612Z",
+    "method": "ble",
     "running_fw": "v1.2.8",
     "carrier": "wifi"
   }
