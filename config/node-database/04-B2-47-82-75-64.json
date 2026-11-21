@@ -38,8 +38,8 @@
   "status": {
     "fw": "v1.3.2",
     "reset_reason": "power on",
-    "uptime_s": 427,
-    "node_time": 1795275180,
+    "uptime_s": 362,
+    "node_time": 1795287584,
     "uploads_ok": 2,
     "sampling_rate": 320,
     "fail_streak": 0,
@@ -47,16 +47,16 @@
     "free_heap": 189824,
     "boot": {
       "sensor": "full reset",
-      "voc": "put back, 26 min old"
+      "voc": "put back, 78 min old"
     },
     "gaps": {
       "count": 1,
       "min_s": 320,
       "max_s": 320
     },
-    "last_upload_at": 1795275180,
+    "last_upload_at": 1795287584,
     "config_read": {
-      "at": 1795274787,
+      "at": 1795287255,
       "ok": true,
       "http": 200,
       "via": "worker"
@@ -71,10 +71,10 @@
       "plmn": "655-01",
       "band": 1,
       "cell": 59607317,
-      "rsrp": -103,
-      "rsrq": -14,
-      "sinr": 17
+      "rsrp": -104,
+      "rsrq": -9,
+      "sinr": 18
     },
-    "received_at": "2026-11-21T15:33:03.378Z"
+    "received_at": "2026-11-21T18:59:45.375Z"
   }
 }
