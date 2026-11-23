@@ -144,34 +144,42 @@
   "status": {
     "fw": "v1.3.2",
     "reset_reason": "task watchdog",
-    "uptime_s": 34,
-    "node_time": 1795385877,
-    "uploads_ok": 0,
+    "uptime_s": 11108,
+    "node_time": 1795396950,
+    "uploads_ok": 35,
     "sampling_rate": 320,
     "fail_streak": 0,
     "recoveries": 0,
-    "free_heap": 190256,
+    "free_heap": 189752,
     "boot": {
       "sensor": "learning kept"
     },
+    "gaps": {
+      "count": 34,
+      "min_s": 320,
+      "max_s": 320
+    },
+    "last_upload_at": 1795396950,
     "config_read": {
-      "at": 1795385876,
+      "at": 1795396311,
       "ok": true,
       "http": 200,
       "via": "worker"
     },
     "sensor": {
-      "present": true
+      "present": true,
+      "status": "0x00000000",
+      "problems": ""
     },
     "cell": {
       "rat": "LTE",
       "plmn": "655-01",
-      "band": 8,
-      "cell": 59607377,
-      "rsrp": -90,
-      "rsrq": -7,
+      "band": 28,
+      "cell": 59607323,
+      "rsrp": -85,
+      "rsrq": -6,
       "sinr": 20
     },
-    "received_at": "2026-11-22T22:26:54.036Z"
+    "received_at": "2026-11-23T01:31:27.947Z"
   }
 }
