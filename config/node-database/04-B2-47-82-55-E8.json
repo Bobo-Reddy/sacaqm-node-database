@@ -34,9 +34,9 @@
   "status": {
     "fw": "v1.3.2",
     "reset_reason": "power on",
-    "uptime_s": 181666,
-    "node_time": 1795468890,
-    "uploads_ok": 568,
+    "uptime_s": 192552,
+    "node_time": 1795479775,
+    "uploads_ok": 602,
     "sampling_rate": 320,
     "fail_streak": 0,
     "recoveries": 0,
@@ -50,9 +50,9 @@
       "min_s": 320,
       "max_s": 320
     },
-    "last_upload_at": 1795468890,
+    "last_upload_at": 1795479775,
     "config_read": {
-      "at": 1795468571,
+      "at": 1795479136,
       "ok": true,
       "http": 200,
       "via": "worker"
@@ -65,12 +65,12 @@
     "cell": {
       "rat": "LTE",
       "plmn": "655-01",
-      "band": 1,
-      "cell": 59607317,
-      "rsrp": -105,
-      "rsrq": -9,
-      "sinr": 19
+      "band": 28,
+      "cell": 59607323,
+      "rsrp": -85,
+      "rsrq": -7,
+      "sinr": 20
     },
-    "received_at": "2026-11-23T21:21:32.171Z"
+    "received_at": "2026-11-24T00:22:57.855Z"
   }
 }
