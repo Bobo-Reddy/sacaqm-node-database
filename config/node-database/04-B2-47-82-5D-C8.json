@@ -12,7 +12,47 @@
     "lon": 28.031313
   },
   "provisioning": {
-    "last_provisioned": "2026-11-24T10:32:51.630Z",
-    "method": "ble"
+    "last_provisioned": "2026-11-24T10:33:07.028Z",
+    "method": "ble",
+    "running_fw": "v1.3.2",
+    "carrier": "wifi"
+  },
+  "lte": {
+    "lock_state": "auto"
+  },
+  "altitude": {
+    "stored_m": 0,
+    "confirmed": false
+  },
+  "sensor": {
+    "temp_offset_c": 0
+  },
+  "co2_asc": {
+    "stored": true,
+    "confirmed": false
+  },
+  "status": {
+    "fw": "v1.3.2",
+    "reset_reason": "power on",
+    "uptime_s": 110,
+    "node_time": 1795516386,
+    "uploads_ok": 0,
+    "sampling_rate": 320,
+    "fail_streak": 0,
+    "recoveries": 0,
+    "free_heap": 138360,
+    "boot": {
+      "sensor": "not found"
+    },
+    "config_read": {
+      "ok": false,
+      "http": 0,
+      "via": ""
+    },
+    "sensor": {
+      "present": false
+    },
+    "wifi_rssi": -67,
+    "received_at": "2026-11-24T10:33:07.028Z"
   }
 }
