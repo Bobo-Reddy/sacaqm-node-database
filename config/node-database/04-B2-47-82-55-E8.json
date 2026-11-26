@@ -34,16 +34,23 @@
   "status": {
     "fw": "v1.3.2",
     "reset_reason": "power on",
-    "uptime_s": 34,
-    "node_time": 1795687362,
-    "uploads_ok": 0,
+    "uptime_s": 360,
+    "node_time": 1795687689,
+    "uploads_ok": 2,
     "sampling_rate": 320,
     "fail_streak": 0,
     "recoveries": 0,
-    "free_heap": 190300,
+    "free_heap": 189808,
     "boot": {
-      "sensor": "full reset"
+      "sensor": "full reset",
+      "voc": "no recent learning saved, learning afresh"
     },
+    "gaps": {
+      "count": 1,
+      "min_s": 320,
+      "max_s": 320
+    },
+    "last_upload_at": 1795687688,
     "config_read": {
       "at": 1795687362,
       "ok": true,
@@ -51,17 +58,19 @@
       "via": "worker"
     },
     "sensor": {
-      "present": true
+      "present": true,
+      "status": "0x00000000",
+      "problems": ""
     },
     "cell": {
       "rat": "LTE",
       "plmn": "655-01",
-      "band": 3,
-      "cell": 59607397,
-      "rsrp": -97,
+      "band": 1,
+      "cell": 59607317,
+      "rsrp": -106,
       "rsrq": -8,
-      "sinr": 21
+      "sinr": 15
     },
-    "received_at": "2026-11-26T10:02:43.937Z"
+    "received_at": "2026-11-26T10:08:10.348Z"
   }
 }
